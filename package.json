@@ -27,6 +27,7 @@
   "main": "./lib/ffi",
   "dependencies": {
     "debug": "^4.1.1",
+    "electron-bindings": "^1.0.1",
     "get-uv-event-loop-napi-h": "^1.0.5",
     "node-addon-api": "^3.0.0",
     "node-gyp-build": "^4.2.1",
