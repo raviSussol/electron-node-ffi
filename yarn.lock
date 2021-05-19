@@ -2059,16 +2059,6 @@ ref-array-di@^1.2.1:
     array-index "^1.0.0"
     debug "^3.1.0"
 
-"ref-napi@^2.0.1 || ^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/ref-napi/-/ref-napi-3.0.2.tgz#fe71c2a09df654baa66649d783c6e5ab182c19cb"
-  integrity sha512-5YE0XrvWteoTr5DR2sEqxefL06aml7c6qS7hGv3u27do4HlGQphwvB+zD1NYep9utMKScvwOZsSs9EPYdGBVsg==
-  dependencies:
-    debug "^4.1.1"
-    get-symbol-from-current-process-h "^1.0.2"
-    node-addon-api "^2.0.0"
-    node-gyp-build "^4.2.1"
-
 ref-struct-di@^1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ref-struct-di/-/ref-struct-di-1.1.1.tgz#5827b1d3b32372058f177547093db1fe1602dc10"

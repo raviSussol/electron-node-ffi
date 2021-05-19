@@ -1,6 +1,6 @@
 'use strict';
 const assert = require('assert');
-const ref = require('ref-napi');
+const ref = require('electron-node-ref');
 const ffi = require('../');
 const bindings = require('node-gyp-build')(__dirname);
 const sprintfPtr = bindings.sprintf;
