@@ -2,7 +2,7 @@
   "name": "electron-node-ffi",
   "version": "4.0.3",
   "license": "MIT",
-  "author": "Ravi Shrestha <ravi.shrestha@sussol.net>",
+  "author": "Ravi Shrestha <rvreturn@gmail.com>",
   "description": "A foreign function interface (FFI) for Electron.js, N-API style",
   "keywords": [
     "foreign",
@@ -22,7 +22,7 @@
   "main": "./lib/ffi",
   "dependencies": {
     "debug": "^4.1.1",
-    "electron-bindings": "^1.0.1",
+    "electron-bindings": "^1.0.2",
     "electron-node-ref": "^3.0.2",
     "get-uv-event-loop-napi-h": "^1.0.5",
     "node-addon-api": "^3.0.0",
