@@ -14,8 +14,6 @@ results
 .nyc_output/
 coverage
 build
-test
-src
 node-addon-api
 
 core
