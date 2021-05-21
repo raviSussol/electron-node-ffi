@@ -2,13 +2,8 @@
   "name": "electron-node-ffi",
   "version": "4.0.3",
   "license": "MIT",
-  "author": "Anna Henningsen <anna@addaleax.net>",
-  "contributors": [
-    "Rick Branson <rick@diodeware.com>",
-    "Nathan Rajlich <nathan@tootallnate.net>",
-    "Gabor Mezo <gabor.mezo@outlook.com>"
-  ],
-  "description": "A foreign function interface (FFI) for Node.js, N-API style",
+  "author": "Ravi Shrestha <ravi.shrestha@sussol.net>",
+  "description": "A foreign function interface (FFI) for Electron.js, N-API style",
   "keywords": [
     "foreign",
     "function",
@@ -20,7 +15,7 @@
     "napi",
     "stable"
   ],
-  "homepage": "http://github.com/node-ffi-napi/node-ffi-napi",
+  "homepage": "https://github.com/raviSussol/electron-node-ffi",
   "engines": {
     "node": ">=10"
   },
@@ -50,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi.git"
+    "url": "https://github.com/raviSussol/electron-node-ffi.git"
   },
   "bugs": {
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi/issues"
+    "url": "https://github.com/raviSussol/electron-node-ffi/issues"
   }
 }
