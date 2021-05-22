@@ -1230,13 +1230,6 @@ ecc-jsbn@~0.1.1:
     jsbn "~0.1.0"
     safer-buffer "^2.1.0"
 
-electron-bindings@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/electron-bindings/-/electron-bindings-1.0.1.tgz#6c29c849750ccc58fd1ae9378b6c497b7a958edd"
-  integrity sha512-l84S0MDwmMP4EbdfyoQeqGVecoSUWxUeKF0UgIqht+HN93GQeeiSZuJI8vV+jH1l6F1errI7+uxRpcXD6uuJVQ==
-  dependencies:
-    node-gyp-build "^4.2.3"
-
 electron-bindings@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/electron-bindings/-/electron-bindings-1.0.2.tgz#661321749bbe4e66dfc447ab17361f13d42b65db"
@@ -1244,13 +1237,13 @@ electron-bindings@^1.0.2:
   optionalDependencies:
     electron "^12.0.7"
 
-electron-node-ref@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/electron-node-ref/-/electron-node-ref-3.0.2.tgz#04bc8c8ebecffb61fb28c9a89ce67bd5b7d062e1"
-  integrity sha512-aaVEw3fM6g3+rtqULRvVDo1jOnmKujegM4upQIXcWg0XY35tpIj/pyJmAOxcF8whd+HLdd7MszYPX7er0kHMqQ==
+electron-node-ref@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/electron-node-ref/-/electron-node-ref-3.0.4.tgz#e7690a43dda49c909e7b4452d1a0daf01ddf9465"
+  integrity sha512-4BJ46zxNfDFCCZ8I1CahJtddBLTxMMbYFpOLXfM8/4QPHQMT5EsNr9Pd6dfYBs23UzMAO9uvMxRs2CeS3QpCTw==
   dependencies:
     debug "^4.1.1"
-    electron-bindings "^1.0.1"
+    electron-bindings "^1.0.2"
     get-symbol-from-current-process-h "^1.0.2"
     node-addon-api "^2.0.0"
     node-gyp-build "^4.2.1"
@@ -3019,7 +3012,7 @@ node-environment-flags@1.0.6:
     object.getownpropertydescriptors "^2.0.3"
     semver "^5.7.0"
 
-node-gyp-build@^4.2.1, node-gyp-build@^4.2.3:
+node-gyp-build@^4.2.1:
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/node-gyp-build/-/node-gyp-build-4.2.3.tgz#ce6277f853835f718829efb47db20f3e4d9c4739"
   integrity sha512-MN6ZpzmfNCRM+3t57PTJHgHyw/h4OWnZ6mR8P5j/uZtqQr46RRuDE/P+g3n0YR/AiYXeWixZZzaip77gdICfRg==
