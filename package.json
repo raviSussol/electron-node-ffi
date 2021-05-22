@@ -1,6 +1,6 @@
 {
   "name": "electron-node-ffi",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "license": "MIT",
   "author": "Ravi Shrestha <rvreturn@gmail.com>",
   "description": "A foreign function interface (FFI) for Electron.js, N-API style",
